@@ -4,15 +4,32 @@ Discente: Ananda Almeida Ramos (aar)
 Professor: Hermano Perrelli de Moura
 
 3.1.        Apresente quatro definições, de autores diferentes, para GESTÃO DE PORTFÓLIO
-DE PROJETOS; referencie os respectivos autores. dê a sua própria
+DE PROJETOS; referencie os respectivos autores. Dê a sua própria
 definição para o termo.
 
-3.2.        Elabore uma nova apresentação para o assunto que você apresentou no minicurso.
-essa apresentação pode ser baseada na primeira. espera-se, no entanto, que ela
-seja significativamente melhorada em relação à primeira. principalmente mais detalhada
-e mais referenciada (bibliografia).
+R - 
+Kaplan
+De acordo com Kaplan (2005), gerenciamento e portfólio de TI é “um método para governar os investimentos em Tecnologia da Informação (TI) através da organização, e gerenciá-los para adicionar valor”. Ainda, de acordo com o mesmo autor, todos os tipos de organização precisam gerenciar seu portfólio de projetos, de modo a apoiar a correta tomada de decisão sobre os investimentos.
+Segundo Kaplan (2005): “Não importa se uma organização de TI é CMMI Nível 1 ou CMMI nível 4, todas as organizações tomam decisões sobre investimentos em TI. Todas precisam de gerenciamento de portfólio de TI”.
+
+PMI
+"... Uma coleção de projetos (empreendimentos temporários realizados com o objetivo de criar um produto, serviço ou resultado único) e/ou programas (um grupo de projetos relacionados gerenciados de forma coordenada para obter objetivos e controles não disponíveis se gerenciados separadamente) e outros trabalhos que são agrupados para facilitar o gerenciamento efetivo para atingir objetivos estratégicos de negócio (PMI, 2008).
+
+Levine, 2005
+PPM is often introduced as ‘one size fits all’ solution. In practice, PPM should be fine tailored to and synchronised with the company’s goals, business strategy and culture. If the issue of PPM is oversimplified, it will unavoidably lead to tensions in the company. PPM is meant to bring the projects into tight integration with other business operations, and specifically – with the strategies, resources, and executive oversight of the organisation. 
+Tradução: GPP é comumente apresentada como uma solução "única". Na prática, GPP deve ser bem adequada e sincronizada aos objetivos, estratégia de negócio e cultura da empresa. Se a questão da GPP for simplificada demais, isso inevitavelmente levará a tensões dentro da companhia. A GPP tem como objetivo causar uma integração estreita com outras operações comerciais, e especificamente - com as estratégias, recursos, e supervisão executiva da organização.
+
+Ricardo Vargas
+"Significa gerir o conjunto dos projetos e programas como um todo sistêmico. Mas não é um todo indiferenciado, é um sistema que comporta diferentes graus de contribuição estratégica. Requer agrupar e discriminar todas as iniciativas, permitindo a alocação diferenciada dos recursos, a alocação oportuna da programação executiva e a gestão ótima dos investimentos em projetos e programas."
+
+Eu (Ananda)
+A gestão de portfólio de projetos é um conjunto de técnicas e boas práticas que visam integrar e alinhar os projetos da empresa à sua estratégia de negócio e cultura, reagrupando e realocando-os para um gerenciamento ótimo e aumento de performance. 
+Uma das principais funções da GPP é a priorização dos projetos e suas tarefas, apesar da grande maioria dos métodos de gerenciamento de projetos abordarem "fazer os projetos corretos", a gestão do portfólio do projeto lida como "fazer os projetos certos", em outras palavras, selecionar e priorizar vários projetos. Mas a GPP moderna é um conceito multidimensional com várias camidas e não limita-se apenas a selecionar inicialmente de projetos.
+
 
 3.3.        Faça uma narrativa SUA sobre a experiência de definição de um processo
 de gestão de portfólio de projetos para a ProDeaf. faça uma descrição
 do projeto, pessoas envolvidas, seus resultados, pontos positivos, pontos negativos
 e qualquer outro tópico que você considere relevante para a sua narrativa.
+
+R - 
